@@ -1,4 +1,12 @@
 xiaoyaliu/alist
 nastools/nas-tools
-postgres
 jellyfin/jellyfin
+postgres
+mysql
+mongo
+redis
+rabbitmq
+jenkins/jenkins
+gitlab/gitlab-ce
+gitlab/gitlab-runner
+verdaccio/verdaccio
